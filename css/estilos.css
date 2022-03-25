@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono&family=Roboto&display=swap');
+
+body{
+    background-color:white;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color:rgb(117, 49, 173);
+}
+
+h2 {
+    color:rgb(141, 231, 231);
+}
+
+.container{
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 20px;
+    color:black;
+    background-color:rgb(235, 221, 204);
+    width: 140px;
+    height: 30px;
+
+}
